@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+pneumonia_outputs.zip
+.ipynb_checkpoints/
+.streamlit/secrets.toml

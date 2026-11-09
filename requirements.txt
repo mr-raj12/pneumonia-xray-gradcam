@@ -1,0 +1,9 @@
+# CPU-only PyTorch (small download, enough for inference on Streamlit Cloud / laptops)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1+cpu
+torchvision==0.29.2+cpu
+streamlit==1.65.0
+numpy==2.2.6
+pandas==2.3.3
+pillow==12.3.0
+matplotlib==3.10.9
